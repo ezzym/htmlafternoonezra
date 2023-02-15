@@ -1,0 +1,90 @@
+ul{
+list-style: none;
+margin: 10px;
+    overflow: hidden;
+}
+
+li,a{
+    padding: 10px;
+    color: deepskyblue;
+    background: beige;
+   float: left;
+}
+h1 {
+   text-align: center;
+}
+li a:hover{
+    background: lightskyblue;
+}
+img {
+    alignment: top;
+}
+
+th,td{
+    border:2px solid darkcyan ;
+   padding: 10px;
+    margin: 10px;
+    font-family: Sawasdee;
+    background: aquamarine;
+}
+table{
+    width: 100%;
+
+}
+th{
+ color: lightskyblue;
+  background: tomato;
+}
+
+.fruits{
+border: 2px solid;
+    background: aquamarine;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.cars{
+    border: 3px dot-dot-dash;
+    padding: 25px;
+    margin: 30px;
+    text-align: center;
+    background: indianred;
+}
+
+.FRUITS{
+    border: turquoise;
+    padding: 20px;
+    margin: 25px;
+    text-align: center;
+    background:indianred ;
+
+}
+ #school{
+     
+
+ }
+ form{
+     padding: 100px;
+     margin: 122px;
+     text-align: center;
+     background: skyblue;
+     margin: 100px;
+     border: double;
+     font-family: "Noto Serif CJK HK";
+     font-size: larger;
+     margin-bottom:10000px;
+     width: 80%;
+     height: 40%;
+     font-size: 25px;
+
+
+ }
+
+
+ img{
+     height:45%;
+     width: 20%;
+ }
+input{
+    margin: 50px;
+}
